@@ -1,0 +1,48 @@
+body{
+    background-color: #B2FEE1;
+}
+*
+{
+    box-sizing: border-box;
+
+}
+a{
+    display: inline-block;
+}
+
+.cabecera
+{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.cabecera .link-logo
+{
+    display: inline-block;
+    vertical-align: middle;
+}
+.cabecera .menu
+{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 50%;
+}
+.cabecera .menu a
+{
+    margin-left: 7.5px;
+    margin-right: 7.5px;
+}
+
+.container
+{
+    width: 1170px;
+    padding: 0 15px 0 15px;
+    margin: 0 auto;
+    
+}
+
+.banner-home
+{
+    width: 100%;
+    height: auto;
+    display: block;
+}
